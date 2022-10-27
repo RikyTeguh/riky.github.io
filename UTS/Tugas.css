@@ -1,0 +1,39 @@
+body {
+    background-position:center;
+    background-size:100%;
+    background-attachment:fixed;
+}
+.pertama {
+    background-color:white;
+    display:block;
+    margin:auto;
+    width:70%;
+    height:70%;
+}
+.text {
+    text-align:center;
+    font-size:50px;
+}
+.text2 {
+    text-indent:0.5in;
+    font-size:20px;
+}
+.text3 {
+    font-family:'Times New Roman';
+}
+.link2 {
+    text-decoration:none;
+}
+.bintang {
+    width:20px;
+    height:20px;
+}
+.image{
+    display:block;
+    margin:auto;
+    width:70%;
+    height:70%;
+}
+.link3 {
+    text-decoration:none;
+}

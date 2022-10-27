@@ -1,0 +1,54 @@
+#myvideobg {
+    position:fixed;
+    right:0;
+    bottom:0;
+    width:100%;
+    min-height:100%;
+}
+header img {
+    width: 20%;
+    margin: 0 0 0 350px;
+}
+.satu {
+    position: fixed;
+    width: 70%;
+    height: auto;
+    background-color: white;
+    margin: 0px 0px 0px 180px;
+}
+nav ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: black;
+    border:2px solid blue;
+}
+nav li {
+    float:left;
+}
+nav li a{
+    text-decoration:none;
+    color:white;
+    padding: 10px 20px;
+    display: inline-block;
+}
+nav li a:hover{
+    background-color: blue;
+}
+article {
+    margin: 10px;
+}
+article img {
+    width: 20%;
+    float:left;
+    margin: 0 10px 0 0;
+}
+.karakter {
+    text-decoration:none;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color:white;
+}
