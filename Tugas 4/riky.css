@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(44, 44, 255);
+    width: auto;
+    height: auto;
+    background-attachment:fixed
+}
+.kedua img{
+    width: 19%;
+    float: left;
+    margin-left: 50px;
+}
+nav {
+    margin-top: 10px;
+}
+nav li{
+    float: left;
+}
+nav ul{
+    list-style-type: none;
+    margin-left:0px;
+    overflow: hidden;
+}
+nav li .aa{
+    font-size: 30px;
+    color:aqua;
+    margin-left: 20px;
+    text-decoration: none;
+}
+nav li .aa:hover , .bb:hover{
+    background-color: black;
+    border-radius: 7px;
+    
+}
+nav li .bb{
+    text-decoration: none;
+    font-size: 30px;
+    color: aqua;
+    margin-left: 70px;
+}
+p {
+    color: white;
+}
+.kedua h4, p{
+    color: white;
+    text-align: justify;
+}
+article .p{
+    margin-left: 310px;
+}
+article p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+article .gambar{
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+article .gambar:hover{
+    margin-top: -20px;
+}
+article .gambar1{
+    float: right;
+    width: 30%;
+    margin-right: 40px;
+    border: 10px solid black;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+article .gambar1:hover{
+    margin-right: 10px;
+}
+article .gambar2{
+    width: 30%;
+    border: 10px solid black;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+article .gambar2:hover{
+    margin-left: 10px;
+}
+article .q{
+    margin-left: 10px;
+}
+article .s{
+    margin-left: 480px;
+}
+article .r{
+    margin-left: 480px;
+    margin-right: 10px;
+}
+article .t{
+    margin-left: 117px;
+    margin-top: -15px;
+}
+footer{
+    background-color: black;
+    width: auto;
+    height: 20px;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
